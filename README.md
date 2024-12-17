@@ -4,6 +4,10 @@ The goal was to analyse the effect of environmental factors like Temperature, Wi
 ## Data Extraction
 The data for environmental conditions was feasibly extracted using Meteostat which is one of the largest vendors of open weather and climate data. The Meteostat Python library provides simple access to open weather and climate data using Pandas. The latitude and longitude values for Shanghai have been used to fetch Hourly data for the past 10 years, since daily or monthly APIs donot provide us with all the environmental data we need. 
 The data for air quality was not available through meteostat library. It was acquired from China's air quality on-line monitoring and analysis platform https://www.aqistudy.cn/historydata/ and saved into an excel file. The data required a lot of preprocessing and imputation before it could be used for analysis all of which is done using python jupyter notebook environment and contained in file 'data-extraction&cleaning.ipynb'
+## Data Description:
+Description of numerical variables are summarized in the table below
+![image](https://github.com/user-attachments/assets/686818d0-ca36-4987-b3c9-8f5e0795c326)
+
 
 ## Time Series Analysis
 The overall Air Quality of Shanghai has improved since the last 10 years with a noticeable decline in the value of  Air quality index (AQI) 
@@ -16,11 +20,12 @@ All of the pollutants show a downward trend from 2014 till 2024 with a clear sea
 <img src="https://github.com/user-attachments/assets/8b6697ea-756e-4df7-a2e4-f16b570f5536" heigth="650" width="650"> 
 
 ## Correlation of Environmental factors with Air Quality
-Pollutants are highly correlated with temperature and pressure as compared to other environmental factors
-Temperature has a negative relation to all pollutants and pressure is positively correlated
-AQI (Air Quality Index) has the highest correlation with PM2.5, PM 10,CO, SO2 and then NO2
+*Pollutants are highly correlated with temperature and pressure as compared to other environmental factors  <br />
+*Temperature has a negative relation to all pollutants and pressure is positively correlated  <br />
+*AQI (Air Quality Index) has the highest correlation with PM2.5, PM 10,CO, SO2 and then NO2  <br />
 
-<img src="https://github.com/user-attachments/assets/9fd7e001-1a0f-405a-9e89-693739a163b2" heigth="650" width="650"> 
+<img src="https://github.com/user-attachments/assets/9fd7e001-1a0f-405a-9e89-693739a163b2" heigth="600" width="600"> 
+
 
 
 
