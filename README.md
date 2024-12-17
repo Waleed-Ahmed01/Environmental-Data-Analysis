@@ -7,6 +7,6 @@ The data for air quality was not available through meteostat library. It was acq
 
 ## Time Series Analysis
 
-<img src="https://github.com/user-attachments/assets/88fde50e-76dd-4133-bfff-595b1298947e" height="500" width="500">
+<img src="https://github.com/user-attachments/assets/88fde50e-76dd-4133-bfff-595b1298947e">
 
 
