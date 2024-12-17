@@ -11,6 +11,7 @@ Description of numerical variables are summarized in the table below
 
 ## Time Series Analysis
 The overall Air Quality of Shanghai has improved since the last 10 years with a noticeable decline in the value of  Air quality index (AQI) 
+
 <img src="https://github.com/user-attachments/assets/d37dff3f-a832-43e2-ba54-f572dc8400fd" heigth="350" width="350"> <img src="https://github.com/user-attachments/assets/80f27b0b-93fa-4759-8d41-8c69da493a52" heigth="350" width="350"> 
 
 All of the pollutants show a downward trend from 2014 till 2024 with a clear seasonal pattern of maximum concentration at the start of every year which decreases during the mid of every year. Similarly, the level of ozone declines during the period when the pollutants levels are high in the atmosphere. The pollutant levels are low when temperature is high and pressure is low
