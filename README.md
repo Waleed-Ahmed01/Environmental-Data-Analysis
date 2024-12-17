@@ -6,8 +6,6 @@ The data for environmental conditions was feasibly extracted using Meteostat whi
 The data for air quality was not available through meteostat library. It was acquired from China's air quality on-line monitoring and analysis platform https://www.aqistudy.cn/historydata/ and saved into an excel file. The data required a lot of preprocessing and imputation before it could be used for analysis all of which is done using python jupyter notebook environment and contained in file 'data-extraction&cleaning.ipynb'
 
 ## Time Series Analysis
-
-<img src="https://github.com/user-attachments/assets/ca52ced0-a7fe-46d3-b485-47cfd33f3463" height="400" width="400">
-<img src="https://github.com/user-attachments/assets/88fde50e-76dd-4133-bfff-595b1298947e">
+<img src="https://github.com/user-attachments/assets/88fde50e-76dd-4133-bfff-595b1298947e" width="200">
 
 
