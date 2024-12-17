@@ -14,9 +14,9 @@ The data for air quality was not available through meteostat library. It was acq
 ![image](https://github.com/user-attachments/assets/d37dff3f-a832-43e2-ba54-f572dc8400fd)
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/88fde50e-76dd-4133-bfff-595b1298947e" width="100" />
-  <img src="https://github.com/user-attachments/assets/8b6697ea-756e-4df7-a2e4-f16b570f5536" width="100" /> 
-  <img src="https://github.com/user-attachments/assets/d37dff3f-a832-43e2-ba54-f572dc8400fd" width="100" />
+  <img src="https://github.com/user-attachments/assets/88fde50e-76dd-4133-bfff-595b1298947e" width="32%" />
+  <img src="https://github.com/user-attachments/assets/8b6697ea-756e-4df7-a2e4-f16b570f5536" width="32%" /> 
+  <img src="https://github.com/user-attachments/assets/d37dff3f-a832-43e2-ba54-f572dc8400fd" width="32%" />
 </p>
 
 
