@@ -7,7 +7,7 @@ The data for air quality was not available through meteostat library. It was acq
 ## Data Description:
 Description of numerical variables are summarized in the table below:
 
-<img src="https://github.com/user-attachments/assets/686818d0-ca36-4987-b3c9-8f5e0795c326" heigth="650" width="650">
+<img src="https://github.com/user-attachments/assets/686818d0-ca36-4987-b3c9-8f5e0795c326" heigth="750" width="750">
 
 ## Time Series Analysis
 The overall Air Quality of Shanghai has improved since the last 10 years with a noticeable decline in the value of  Air quality index (AQI) 
