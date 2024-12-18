@@ -16,9 +16,7 @@ The overall Air Quality of Shanghai has improved since the last 10 years with a 
 
 All of the pollutants show a downward trend from 2014 till 2024 with a clear seasonal pattern of maximum concentration at the start of every year which decreases during the mid of every year. Similarly, the level of ozone declines during the period when the pollutants levels are high in the atmosphere. The pollutant levels are low when temperature is high and pressure is low
 
-<img src="https://github.com/user-attachments/assets/f53a73a5-3006-45f3-b1d7-11a236e74fc1" heigth="325" width="325"> <img src="https://github.com/user-attachments/assets/21bf5627-c553-4b3f-bc0a-2a55dec20e16" heigth="325" width="325">
-<img src="https://github.com/user-attachments/assets/88fde50e-76dd-4133-bfff-595b1298947e" heigth="650" width="650"> 
-<img src="https://github.com/user-attachments/assets/8b6697ea-756e-4df7-a2e4-f16b570f5536" heigth="650" width="650"> 
+<img src="https://github.com/user-attachments/assets/f53a73a5-3006-45f3-b1d7-11a236e74fc1" heigth="325" width="325"> <img src="https://github.com/user-attachments/assets/21bf5627-c553-4b3f-bc0a-2a55dec20e16" heigth="325" width="325"> <img src="https://github.com/user-attachments/assets/88fde50e-76dd-4133-bfff-595b1298947e" heigth="650" width="650">  <img src="https://github.com/user-attachments/assets/8b6697ea-756e-4df7-a2e4-f16b570f5536" heigth="650" width="650"> 
 
 ## Correlation of Environmental factors with Air Quality
 *Pollutants are highly correlated with temperature and pressure as compared to other environmental factors  <br />
