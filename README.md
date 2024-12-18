@@ -5,14 +5,14 @@ The goal was to analyse the effect of environmental factors like Temperature, Wi
 The data for environmental conditions was feasibly extracted using Meteostat which is one of the largest vendors of open weather and climate data. The Meteostat Python library provides simple access to open weather and climate data using Pandas. The latitude and longitude values for Shanghai have been used to fetch Hourly data for the past 10 years, since daily or monthly APIs donot provide us with all the environmental data we need. 
 The data for air quality was not available through meteostat library. It was acquired from China's air quality on-line monitoring and analysis platform https://www.aqistudy.cn/historydata/ and saved into an excel file. The data required a lot of preprocessing and imputation before it could be used for analysis all of which is done using python jupyter notebook environment and contained in file 'data-extraction&cleaning.ipynb'
 ## Data Description:
-Description of numerical variables are summarized in the table below
-![image](https://github.com/user-attachments/assets/686818d0-ca36-4987-b3c9-8f5e0795c326)
+Description of numerical variables are summarized in the table below:
 
+<img src="https://github.com/user-attachments/assets/686818d0-ca36-4987-b3c9-8f5e0795c326" heigth="350" width="350">
 
 ## Time Series Analysis
 The overall Air Quality of Shanghai has improved since the last 10 years with a noticeable decline in the value of  Air quality index (AQI) 
 
-<img src="https://github.com/user-attachments/assets/d37dff3f-a832-43e2-ba54-f572dc8400fd" heigth="350" width="350"> <img src="https://github.com/user-attachments/assets/80f27b0b-93fa-4759-8d41-8c69da493a52" heigth="350" width="350"> 
+<img src="https://github.com/user-attachments/assets/d37dff3f-a832-43e2-ba54-f572dc8400fd" heigth="350" width="350">  <img src="https://github.com/user-attachments/assets/80f27b0b-93fa-4759-8d41-8c69da493a52" heigth="350" width="350"> 
 
 All of the pollutants show a downward trend from 2014 till 2024 with a clear seasonal pattern of maximum concentration at the start of every year which decreases during the mid of every year. Similarly, the level of ozone declines during the period when the pollutants levels are high in the atmosphere. The pollutant levels are low when temperature is high and pressure is low
 
